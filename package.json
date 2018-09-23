@@ -1,6 +1,6 @@
 {
   "name": "@ristostevcev/bs-callbag",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "The callbag type for bucklescript",
   "main": "index.js",
   "dependencies": {
