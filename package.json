@@ -1,0 +1,31 @@
+{
+  "name": "@ristostevcev/bs-callbag",
+  "version": "1.0.0",
+  "description": "The callbag type for bucklescript",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "bs-platform": "^4.0.3"
+  },
+  "scripts": {
+    "clean": "bsb -clean-world",
+    "build": "bsb -make-world",
+    "watch": "bsb -make-world -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Risto-Stevcev/bs-callbag.git"
+  },
+  "keywords": [
+    "callbag",
+    "bucklescript",
+    "reason"
+  ],
+  "author": "Risto Stevcev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Risto-Stevcev/bs-callbag/issues"
+  },
+  "homepage": "https://github.com/Risto-Stevcev/bs-callbag#readme"
+}
